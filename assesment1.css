@@ -1,0 +1,17 @@
+.full{
+    height: 100%;
+    width: 100%;
+}
+.b1{
+    background-color: turquoise;
+    color: blueviolet;
+}
+.b2{
+    color: white;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: skyblue;
+}

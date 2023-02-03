@@ -1,0 +1,31 @@
+.full{
+    background-color: white;
+    height: 100vh;
+    width: 100%;
+}
+.bg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 60vh;
+    width: 100%;
+    text-align: justify;
+    color: #e6f6ff;
+    font-size: 40px;
+    font-style: italic;
+}
+.c1{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.b1{
+    background-color: blue;
+    color: white;
+}

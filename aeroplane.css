@@ -1,0 +1,171 @@
+.fu{
+    height: 100vh;
+    width: 100%;
+}
+.im{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d2/Turkish_Airlines_Airbus_A330-300_immediately_before_landing_at_Heathrow%2C_8_July_2021.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.lo{
+    position: relative;
+    top: 30px;
+    left: 150px;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    margin: 10px;
+    float: right;
+    position: relative;
+    bottom: 50px;
+    color: black;
+}
+ul li:hover{
+    background-color: springgreen;
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    border-radius: 5px;
+}
+.tt1{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    left: 400px;
+    top: 60px;
+}
+#l1{
+    height: 30px;
+    width: 80px;
+    background-color: yellow;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+}
+#l1:hover{
+    background-color: tomato;
+}
+.c1{
+    height: 40vh;
+    width: 50%;
+    background-color: gold;
+    position: relative;
+    bottom: 25px;
+}
+#c2{
+    color: white;
+    text-align: justify;
+    position: relative;
+    left: 200px;
+    top: 50px;
+    font-size: 25px;
+}
+.tt2{
+    height: 40vh;
+    width: 50%;
+    background-color: white;
+    position: relative;
+    left: 624px;
+    bottom: 266px;
+}
+#c3{
+    position: relative;
+    right: 30px;
+    top: 50px;
+    border: 1px solid black;
+    height: 25vh;
+    width: 60%;
+}
+#c4{
+    color: black;
+    text-align: justify;
+    position: relative;
+    left: 40px;   
+}
+.cc1{
+    height: 70vh;
+    width: 100%;
+    background-color: blueviolet;
+    position: relative;
+    bottom: 264px;
+}
+.dd1{   
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+#aa1{
+    color: white;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 50px;
+    -webkit-column-width: 30px;
+    margin-left: 50px;
+    margin-top: 80px;
+    -webkit-column-rule: 2px solid red;
+}
+#ff1{
+    text-decoration: none;
+    color: white;
+    border: 1px solid black;
+    height: 60px;
+    width: 150px;
+    background-color: gold;
+    font-size: 10px;
+    padding: 10px;
+}
+#ff1:hover{
+    background-color: red;
+}
+.tx1{
+    height: 50vh;
+    width: 100%;
+}
+#tx2{
+    position: relative;
+    left: 250px;
+    bottom: 200px;
+}
+.rr{
+    height: 40vh;
+    width: 80%;
+    margin: 50px;
+}
+#sd1{
+    float: left;
+}
+#z1{
+    position: relative;
+    left: 100px;
+    bottom: 200px;
+}
+#z2{
+    position: relative;
+    left: 350px;
+    bottom: 250px;
+}
+#z3{
+    position: relative;
+    left: 580px;
+    bottom: 310px;
+}
+#z4{
+    position: relative;
+    left: 100px;
+    bottom: 290px;
+}
+#z5{
+    position: relative;
+    left: 350px;
+    bottom: 340px;
+}
+#z6{
+    position: relative;
+    left: 600px;
+    bottom: 400px;
+}
+

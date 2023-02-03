@@ -1,0 +1,42 @@
+.fu{
+    height: 100vh;
+    width: 100%;
+    background-image:linear-gradient(45deg, yellow 20%, red 30%, orange 20%);
+}
+.hh1{
+    height: 20vh;
+    width: 100%;
+}
+#lo{
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+#bb1{
+    position: relative;
+    left: 900px;
+    bottom: 20px;
+}
+#bb2{
+    border: none;
+    background-color: transparent;
+    color: white;
+}
+.tt1{
+    height: 30vh;
+    width: 100%;
+    position: relative;
+    left: 300px;
+    top: 90px;
+    color: white;
+    font-size: 30px;
+}
+#bb3{
+    background-color: white;
+    border-radius: 10px;
+    font-size: 10px;
+    height: 25px;
+    width:100px;
+    position: relative;
+    bottom: 20px;
+}

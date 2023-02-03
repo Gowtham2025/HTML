@@ -1,0 +1,45 @@
+ppppa.a1{
+    color: springgreen;
+    text-decoration: none;
+}
+a.a1:visited{
+    color: blueviolet;
+}
+a.a1:hover{
+    color: chartreuse;
+}
+.a2{
+    color: darkred;
+    text-decoration: none;
+}
+a.a2:visited{
+    color: darkmagenta;
+}
+a.a2:hover{
+    color: yellow
+}
+ a.a3,a.a3:visited{ 
+    background-color: black;
+    color: beige;
+    text-decoration: none;
+}
+a.a3:hover,a.a3:active{
+    background-color: blue;
+    color: black;
+}
+.a4 li:first-child{
+    border: 5px solid yellow;
+}
+.a4 li:last-child{
+    border: 5px solid blue;
+}
+.b1{
+    background-color: violet;
+    height: auto;
+    width: 100%;
+}
+.b2{
+    background-color: steelblue;
+    height: auto;
+    width: 100%;
+}

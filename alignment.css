@@ -1,0 +1,48 @@
+.b1{
+    height: 300vh;
+    width: 100%;
+    background-color: skyblue;
+}
+.a2{
+    height: 20vh;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.a1{
+    text-align: justify;
+    text-transform: capitalize;
+    text-indent: 50px;
+    color: blue;
+}
+.a3{
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+    padding: 100px;
+}
+.a5{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    margin: 130px;
+}
+.a6{
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    position: static;
+    top: 150px;
+}
+.a7{
+    height: 200px;
+    width: 200px;
+    background-color: hotpink;
+    position: relative;
+    left: 250px;
+}
+.a8{
+    float:right;
+}
+.a9{
+    float: left;
+}
