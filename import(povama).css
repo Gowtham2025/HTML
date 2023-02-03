@@ -1,0 +1,5 @@
+@import url("alternateimport.css");
+.head2 {color: brown;}
+#head {color: blueviolet;}
+*{ color: cornflowerblue;}
+h2,h5,h6,p { background-color: forestgreen; color: orange;}

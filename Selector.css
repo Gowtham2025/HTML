@@ -1,0 +1,12 @@
+div h1{
+    color: cornflowerblue;
+}
+div>ol{
+    color: blue;
+}
+div+h3{
+    color: darkorange;
+}
+div~h4{
+    color: yellow;
+}

@@ -1,0 +1,36 @@
+.sd{
+    font: italic small-caps 600 30px arial;
+    color: burlywood;
+    text-align: center;
+    text-decoration: underline;
+}
+#sd{font: oblique small-caps 100 40px times ;
+color: darkcyan;
+text-align: right;
+text-decoration: overline;
+}
+.hd{
+    font: initial normal 600 80px 'Times New Roman';
+    color: blue;
+    text-align: left;
+    text-decoration: line-through;
+}
+.fd{
+    text-shadow: 3px 3px 3px blue;
+    text-transform: uppercase;
+
+}
+.tt{
+    text-indent: 25px;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color: chartreuse;
+    text-transform: capitalize;
+}
+.ff{
+    letter-spacing: 3px;
+    word-spacing: 50px;
+}
+.nn{
+    line-height: 25px;
+}

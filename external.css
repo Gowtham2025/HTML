@@ -1,0 +1,25 @@
+#head1{
+    color: rgb(20, 253, 132);
+}
+#head2{
+    color: blue;
+}
+#head3{
+    color: chartreuse;
+}
+#head4{
+    color: cornflowerblue;
+}
+#para1{
+    color: darkgreen;
+}
+#para2{
+    color: cornsilk;
+}
+#para3{
+    color: khaki;
+}
+#bgcolor{
+    background-color: darkorchid;
+    text-align: center;
+}
