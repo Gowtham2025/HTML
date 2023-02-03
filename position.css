@@ -1,0 +1,23 @@
+.a1{
+    background-color: tan;
+    color: crimson;
+    position: static ;
+    top: 20px;
+    left: 20px;
+    height: 50vh;
+    width: 50%;
+}
+.a2{
+    background-color: silver;
+    color: aliceblue;
+    position: static;
+    top: 20px;
+    right: 20px;
+}
+.a3{
+    background-color: springgreen;
+    color: black;
+    position: static;
+    top: 20px;
+    left: 20px;
+}

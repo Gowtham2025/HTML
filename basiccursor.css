@@ -1,0 +1,13 @@
+.a1{
+    height: 100vh;
+    width: 100%;
+    cursor: default;
+}
+#b1{
+    text-indent: 30px;
+    text-align: justify;
+    color: blue;
+}
+#b3{
+    color: cornflowerblue;
+}

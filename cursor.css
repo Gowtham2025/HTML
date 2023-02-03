@@ -1,0 +1,19 @@
+.b1{
+    height: 100vh;
+    width: 100%;
+}
+.a1{
+    background-color: bisque;
+    color: black;
+    cursor: grab;
+}
+.a2{
+    background-color: aquamarine;
+    color: black;
+    cursor: progress;
+}
+.a3{
+    background-color: cornflowerblue;
+    color: black;
+    cursor: help;
+}

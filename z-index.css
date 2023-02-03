@@ -1,0 +1,28 @@
+.a1{
+    height: 30vh;
+    width: 50%;
+    background-color: yellow;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+
+    
+}
+.a2{
+    height: 30vh;
+    width: 50%;
+    background-color: tomato;
+    position: absolute;
+    left: 60px;
+    top: 60px;
+    
+}
+.a3{
+    height: 30vh;
+    width: 50%;
+    background-color: blue;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    
+}

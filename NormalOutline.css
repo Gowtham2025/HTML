@@ -1,0 +1,20 @@
+.a1{
+    outline: 6px solid hotpink;
+    width: 50%;
+    text-align: justify;
+}
+.a2{
+    outline: 6px dashed skyblue;
+    width: 50%;
+    text-align: justify;
+}
+.a3{
+    outline: 6px dotted maroon;
+    width: 50%;
+    text-align: justify;
+}
+.a4{
+    outline: 6px double navy;
+    width: 50%;
+    text-align: justify;
+}

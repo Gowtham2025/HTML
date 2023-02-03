@@ -1,0 +1,15 @@
+table,th,tr,td{
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    border: 4px groove yellow;
+    height: 10vh;
+    width: 60%;
+    padding: 5px;
+    border-collapse: separate;
+    empty-cells: hide;
+    caption-side: top;
+    vertical-align: bottom;
+    table-layout: fixed;
+    
+}

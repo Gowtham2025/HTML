@@ -1,0 +1,39 @@
+.a1{
+    background-color: darkgreen;
+    color: white;
+    position: relative;
+    left: 10px;
+    bottom: 10px;
+    padding: 10px;
+    height: 50vh;
+    width: 50%;
+}
+.a2{
+    background-color: silver;
+    color: aliceblue;
+    position: relative;
+    top: 20px;
+    right: 20px;
+    padding: 30px;
+}
+.a3{
+    background-color: darkred;
+    color: black;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.a4{
+    background-color: deepskyblue;
+    color: black;
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+.a5{
+    background-color: chartreuse;
+    color: black;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}

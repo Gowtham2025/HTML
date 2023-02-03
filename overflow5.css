@@ -1,0 +1,36 @@
+.a1{
+    background-color: darkgrey;
+    color: aliceblue;
+    height: 200px;
+    width: 250px;
+    overflow: visible;
+    border: 3px solid navy;
+    text-indent: 30px;
+}
+.a2{
+    background-color: rosybrown;
+    color: aliceblue;
+    height: 200px;
+    width: 250px;
+    overflow: Scroll;
+    border: 3px solid navy;
+    text-indent: 30px;    
+}
+.a3{
+    background-color: palegreen;
+    color: aliceblue;
+    height: 200px;
+    width: 250px;
+    overflow: hidden;
+    border: 3px solid navy;
+    text-indent: 30px;
+}
+.a4{
+    background-color: darkorange;
+    color: aliceblue;
+    height: 200px;
+    width: 250px;
+    overflow: auto;
+    border: 3px solid navy;
+    text-indent: 30px;
+}

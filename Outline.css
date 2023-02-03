@@ -1,0 +1,36 @@
+h1{
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: burlywood;
+    width: 15%;
+}
+h2{
+    outline-style: dashed;
+    outline-width: 10px;
+    outline-color: chartreuse;
+    width: 15%;
+}
+h3{
+    outline-style: dotted;
+    outline-width: 10px;
+    outline-color: wheat;
+    width: 15%;
+}
+h4{
+    outline-style: double;
+    outline-width:10px;
+    outline-color: violet;
+    width: 15%;
+}
+h5{
+    outline-style: groove;
+    outline-width: 10px;
+    outline-color: tomato;
+    width: 15%;
+}
+h6{
+    outline-style: ridge;
+    outline-width: 10px;
+    outline-color: teal;
+    width: 15%;
+}

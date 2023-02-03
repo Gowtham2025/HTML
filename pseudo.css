@@ -1,0 +1,12 @@
+.a1{
+    background-color: wheat;
+    color: aliceblue;
+    height: 100vh;
+    width: 100%;
+}
+p::first-line{
+    color: turquoise;t
+}
+h1::first-letter{
+    color: springgreen;
+}

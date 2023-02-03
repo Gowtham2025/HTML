@@ -1,0 +1,151 @@
+.fu{
+    height: 100vh;
+    width: 100%;
+}
+.he{
+    height: 30vh;
+    width: 100%;
+}
+#lo{
+    position: relative;
+    left: 200px;
+}
+#a{
+    font-size: 10px;
+    color: blue;
+    position: relative;
+    left: 650px;
+    bottom: 50px;
+    cursor: default;
+}
+#e{
+    font-size: 10px;
+    color: blue;
+    position: relative;
+    left: 1050px;
+    bottom: 85px;
+    cursor: default;
+}
+#b1{
+    font-size: 15px;
+    border: none; 
+    background-color: transparent;
+    position: relative;
+    left: 250px;
+    bottom: 120px;
+   
+}
+#s{
+    color: blue;
+    position: relative;
+    left: 950px;
+    bottom: 155px;
+}
+.im{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/594/493/non_2x/business-advisor-showing-plan-of-investment-to-clients-in-the-consultancy-office-free-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    bottom: 168px; 
+}
+.tt{
+    height: 50vh;
+    width: 100%;
+    position: relative;
+    left: 350px;
+    top: 100px;
+}
+#tt1{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 90px;
+    
+}
+#tt2{
+    font-size: 50px;
+    color: aliceblue;
+    position: relative;
+    left: 30px;
+}
+#tt3{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    right: 50px;
+    bottom: 20px;
+}
+#bb2{
+    background-color: orange;
+    color: white;
+    height: 30px;
+    width: 90px;
+    font-size: 10px;
+    position: relative;
+    left: 200px;
+    bottom: 20px;
+}
+#pp1{
+    height: 200px;
+    width: 200px;
+    background-color: tomato;
+    position: relative;
+    left: 250px;
+    top: 200px;
+    text-align: justify;
+    text-indent: 30px;
+}
+#pp2{
+    height: 200px;
+    width: 200px;
+    background-color: skyblue;
+    position: relative;
+    left: 450px;
+    bottom: 15px;
+    text-align: justify;
+    text-indent: 30px;
+}
+#pp3{
+    height: 200px;
+    width: 200px;
+    background-color: palegreen;
+    position: relative;
+    left: 650px;
+    bottom: 230px;
+    text-align: justify;
+    text-indent: 30px;
+}
+#pp4{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    position: relative;
+    left: 250px;
+    bottom: 230px;
+    text-align: justify;
+    text-indent: 30px;
+}
+#pp5{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    position: relative;
+    left: 450px;
+    bottom: 440px;
+    text-align: justify;
+    text-indent: 30px;
+}
+#pp6{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    position: relative;
+    left: 650px;
+    bottom: 655px;
+    text-align: justify;
+    text-indent: 30px;
+}
+

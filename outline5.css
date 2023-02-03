@@ -1,0 +1,12 @@
+.a1{
+    outline: 3px solid red;
+    width: 15%;
+}
+.a2{
+    outline: 4px groove green;
+    width: 15%;
+}
+.a3{
+    outline: 5px outset blue;
+    width: 15%;
+}

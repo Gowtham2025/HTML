@@ -1,0 +1,54 @@
+.a1{
+    background-image:linear-gradient(45deg, blue 10%, purple 50%);
+    height: 80vh;
+    width: 90%;
+    margin:auto;
+    padding:50px;
+    border:50px;
+}
+
+.a2{
+    background-color: aliceblue;
+    border:50px;
+    height: 80vh;
+    width: 30%;
+    padding: 20px;
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 15px;
+}
+.a9{
+    color: blueviolet;
+    text-align: center;
+    font-style: italic;
+    font-size: larger; 
+}
+.a3{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 90%;
+}
+.a4{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 90%;
+}
+.a5{
+    color: aliceblue;
+    background-image:linear-gradient(black, black);
+    height: 5vh;
+    width: 100%;
+    border-radius: 25px;
+
+}
+.a6{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+.a10{
+    text-align: right;
+}
+.a11,.a7,.a8{
+    text-align: center;
+}

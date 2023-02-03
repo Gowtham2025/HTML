@@ -1,0 +1,8 @@
+.a1{
+    background-color: violet;
+    color: black;
+    height: 30vh;
+    width: 30%;
+    overflow: scroll;
+    border: 2px solid black;
+}

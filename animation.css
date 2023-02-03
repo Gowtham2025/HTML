@@ -1,0 +1,17 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: relative;
+    animation-name: example;
+    animation-duration: 5s;
+    animation-delay: 3s;
+    animation-iteration-count: 5;
+}
+@keyframes example {
+   0% {background-color: tomato;left:0px;top:0px;}
+   25%{background-color: blueviolet;left:200px;top:0px;}
+   50%{background-color: yellow;left:200px;top:200px;}
+   75%{background-color: chartreuse;left:0px;top:200px;}
+   100%{background-color: dodgerblue;left: 0px;top: 0px;}
+}

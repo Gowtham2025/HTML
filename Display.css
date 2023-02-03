@@ -1,0 +1,24 @@
+.b1{
+    display: inline;
+    width: 50%;
+    height: 80%;
+    margin: 80px;
+}
+#a1{
+    display: inline;
+    background-color: brown;
+    color: black;
+    height: 90px;
+}
+#a2{
+    display: inline;
+    background-color: yellow;
+    color: black;
+    height: 90px;
+}
+#a3{
+    display: inline;
+    background-color: blue;
+    color: black;
+    height: 90px;
+}

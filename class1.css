@@ -1,0 +1,17 @@
+.a1{
+    color: greenyellow;
+    text-align: left;
+    text-transform: capitalize;
+}
+.b1{
+    color: red;
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 45px;
+}
+.b2{
+    color:blue;
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 45px;
+}

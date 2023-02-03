@@ -1,0 +1,79 @@
+.a1{
+    background-color: skyblue;
+    height: 150px;
+    width: 150px;
+    color: black;
+    transform: 0.8s;
+    position: absolute;
+}
+.a1:hover{
+    transform: translate(20px,20px);
+}
+.a2{
+    background-color: yellow;
+    color: black;
+    height: 150px;
+    width: 150px;
+    transition:transfrom 3s;
+}
+.a2:hover{
+    transform: scale(3);
+}
+.a3{
+    background-color: yellow;
+    color: black;
+    height: 150px;
+    width: 150px;
+    transition: all 0.5s;
+    transform-origin: left;
+    border-radius: 10px;
+}
+.a3:hover{
+    transform: rotate(360deg);
+}
+.a4{
+    background-color: yellow;
+    color: black;
+    height: 150px;
+    width: 150px;
+    transition: transform 1s;
+}
+.a4:hover{
+    transform: skew(-180deg);
+} 
+.a5{
+    background-color: skyblue;
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    color: black;
+    transform: 0.2s;
+    position: absolute;
+    border-radius: 10px;
+}
+.a5:hover{
+    transform: translate3d(80px,80px,80px);
+    color: tomato;
+}
+.a6{
+    background-color: yellow;
+    color: black;
+    height: 150px;
+    width: 150px;
+    transition: all 0.5s;
+    transform-origin: left; 
+    border-radius: 10px; 
+}
+.a6:hover{
+    transform: rotate3d(0,1,1,1080deg);
+} 
+.a7{
+    background-color: yellow;
+    color: black;
+    height: 150px;
+    width: 150px;
+    transition:transfrom 3s;
+}
+.a7:hover{
+    transform: scale3d(5,1,1);
+}  

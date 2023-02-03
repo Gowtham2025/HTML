@@ -1,0 +1,29 @@
+.a1{
+    height: 100vh;
+    width: 100%;
+}
+#a1{
+    filter: blur(70%);
+}
+#a2{
+    filter: brightness(30%);
+}
+#a3{
+    filter: contrast(45%);
+}
+#a4{
+    filter: grayscale(50%);
+}
+#a5{
+    filter: saturate(60%);
+}
+#a6{
+    filter: opacity(0.2);
+}
+#a7{
+    filter: invert(50%);
+}
+#a8{
+    filter: hue-rotate(25%);
+}
+

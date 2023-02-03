@@ -1,0 +1,32 @@
+.a1{
+    outline: 5px solid yellowgreen;
+    width: 15%;
+}
+.a2{
+    outline: 5px inset purple;
+    width: 15%;
+}
+.a3{
+    outline: 5px dotted aqua;
+    width: 15%;
+}
+.a4{
+    outline: 5px dashed palegreen;
+    width: 15%;
+}
+.a5{
+    outline: 5px outset plum;
+    width: 15%;
+}
+.a6{
+    outline: 5px groove gold;
+    width: 15%;
+}
+.a7{
+    outline: 5px ridge skyblue;
+    width: 15%;
+}
+.a8{
+    outline: 5px  double royalblue;
+    width: 15%;
+}

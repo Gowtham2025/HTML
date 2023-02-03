@@ -1,0 +1,46 @@
+.a1{
+    background-color: greenyellow;
+    font: italic normal 400 50px times;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px blue;
+}
+.b1{
+    text-align: left;
+    text-transform: capitalize;
+    color: blueviolet;
+    text-decoration: underline;
+    text-decoration-line: underline;
+}
+#a1{
+    text-align: justify;
+    text-indent: 30px;
+    word-spacing: 25px;
+}
+.c1{
+    text-align: justify;
+    text-indent: 50px;
+    text-decoration: overline;
+    text-decoration-color: cyan;
+}
+#c1{
+    text-decoration: line-through;
+    text-decoration-line: dashed;
+    line-height: 30px;
+
+}
+.d1{
+    background-color: darkgray;
+    letter-spacing: 5px;
+    text-transform: lowercase;
+    text-indent: 50px;
+
+}
+.e1{
+    text-decoration: dotted;
+    text-decoration-line: overline;
+    text-decoration-color: yellow;
+}
+#f1{
+    text-shadow: 3px 5px 4px yellowgreen;
+}

@@ -1,0 +1,33 @@
+.b1{
+    background-color: aquamarine;
+    display: inline-block;
+    width: 100%;
+    height: 80vh;
+    margin: 80px;
+}
+#a1{
+    display: inline-block;
+    background-color: violet;
+    color: black;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+}
+#a2{
+    display: inline-block;
+    background-color: khaki;
+    color: black;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+
+}
+#a3{
+    display: inline-block;
+    background-color: darkmagenta;
+    color: black;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+
+}

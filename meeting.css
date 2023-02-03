@@ -1,0 +1,79 @@
+.full{
+    height: 100vh;
+    width: 100%;
+}
+#a1{
+    background-image: url("https://wallpaperaccess.com/full/4678171.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+    width: 100%;
+}
+#a2{
+    margin-left: 30px;
+    color: aliceblue;
+    font-size: 50px;
+}
+.bu{
+    height: 10vh;
+    width: 100%;
+    margin-left: 750px;
+    margin-top: -35px;
+}
+#b1{
+    font-size: 25px;
+    background-color: transparent;
+    border: none;
+    color: aliceblue;
+    cursor: grab;
+}
+#b2{
+    font-size: 25px;
+    background-color: transparent;
+    border: none;
+    color: aliceblue;
+    cursor: wait;
+    
+}
+#b3{
+    font-size: 25px;
+    background-color: transparent;
+    border: none;
+    color: aliceblue;
+    cursor: zoom-in;
+}
+#b4{
+    font-size: 25px;
+    background-color: transparent;
+    border: none;
+    color: aliceblue;
+    cursor: help;
+}
+#b5{
+    font-size: 25px;
+    background-color: transparent;
+    border: none;
+    color: aliceblue;
+    cursor: not-allowed;
+}
+#a3{
+    text-align: justify;
+    color: aliceblue;
+    margin-left: 600px;
+    margin-top: 150px;
+    height: 20vh;
+    width: 100%;
+}
+#a4{
+    margin-left: 650px;
+    cursor: alias;
+}
+#a5{
+    font-size: 25px;
+    background-color: transparent;
+    color: aliceblue;
+    border: 3px solid yellow;
+    height: 10vh;
+    width: 50%;
+
+}

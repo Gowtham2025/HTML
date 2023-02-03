@@ -1,0 +1,60 @@
+.a1{
+    height: 160vh;
+    width: 100%;
+    background-color: violet;
+}
+h1,h2{
+    text-align: left;
+    text-transform: uppercase;
+}
+.a3{
+    height: 60vh;
+    width: 100%;
+    background-color: thistle;
+}
+#im1{
+    float: right;
+}
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
+#im2{
+    float: left;
+}
+.a2{
+    height: 130vh;
+    width: 100%;
+    background-color: wheat;
+}
+.sta{
+    height: 200px;
+    width: 400px;
+    background-color: skyblue;
+    position: static;
+    top: 50px;
+    left: 250px;
+}
+
+.rel{
+    height: 200px;
+    width: 400px;
+    background-color: rosybrown;
+    position: relative;
+    left: 550px;
+}
+.abs{
+    height: 200px;
+    width: 400px;
+    background-color: goldenrod;
+    position: absolute;
+    left: 180px;
+    bottom: 3px;
+}
+.fix{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(236, 16, 16);
+    position: fixed;
+    margin-top:20px;
+}
